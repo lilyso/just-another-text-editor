@@ -1,7 +1,7 @@
 # Just Another Text Editor
 
 > A PWA single page text editor that runs in the browser.
-> Live demo [_here_](https://www.example.com).
+> Live demo [_here_](https://guarded-garden-40686.herokuapp.com/).
 
 ## Table of Contents
 
@@ -34,9 +34,9 @@
 ## Features
 
 - Uses local storage and IndexedDB database to store and retrieve data.
-- When user clicks off of the DOM window, the content in the text editor is saved with IndexedDB
-- Install button to download the web application as an icon on user's desktop
-- Static assets pre cached upon loading along with subsequent pages and static assets
+- When user clicks off the DOM window, the content in the text editor is saved with IndexedDB.
+- Install button to download the web application as an icon on user's desktop.
+- Static assets pre cached upon loading along with subsequent pages and static assets.
 
 ## Screenshots
 
